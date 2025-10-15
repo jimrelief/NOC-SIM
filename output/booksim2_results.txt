@@ -1,0 +1,2 @@
+Warmed up ...Time used is 3000 cycles
+Time taken is 8406 cycles
